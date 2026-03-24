@@ -1,0 +1,10 @@
+/target
+/Cargo.lock
+*.swp
+*.swo
+
+# Dokkaebi harness runtime state
+.harness/
+
+# Python scaffold remnant
+git_ghosts/
